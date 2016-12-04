@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<macromedia-extension id="net.modulous.frameview" name="FrameView" version="1.0.0">
+  <author name="EIREXE"/>
+  <products>
+    <product version="12.0" primary="true" name="Flash"/>
+  </products>
+  <files>
+    <file source="FrameView" destination="$flash" products="Flash"/>
+    <file source="WindowSWF" destination="$flash" products="Flash"/>
+  </files>
+</macromedia-extension>
